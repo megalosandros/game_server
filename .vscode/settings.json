@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "stdexcept": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "typeindex": "cpp",
+        "variant": "cpp",
+        "system_error": "cpp",
+        "thread": "cpp",
+        "functional": "cpp",
+        "utility": "cpp",
+        "string": "cpp",
+        "*.ipp": "cpp",
+        "future": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "chrono": "cpp",
+        "condition_variable": "cpp",
+        "optional": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "ratio": "cpp"
+    },
+    "cmake.buildDirectory": "${workspaceRoot}/build_debug",
+    "cmake.configureOnOpen": true
+}
